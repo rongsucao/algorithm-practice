@@ -1,0 +1,9 @@
+```
+.codegeex/
+.codegeex*
+mamba/
+.condarc
+*.pyc
+__pycache__/
+.env/
+envs/
